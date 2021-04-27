@@ -1,0 +1,11 @@
+Report Based on User ID
+(33, 7, 'new', 'user', 31, 'Pending')
+
+
+Report Based on Slot ID
+The Slot Date is 2021-12-12
+(28, 'Vaccinated')
+(30, 'Vaccinated')
+(31, 'Booked')
+
+
